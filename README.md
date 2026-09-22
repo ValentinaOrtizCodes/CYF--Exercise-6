@@ -6,10 +6,10 @@ A web page built for **Code Your Future (CYF) - Exercise 5** that serves as an i
 
 ## Features
 
-- **Guidance on GP registration and accessing local community services.
-- **Links and steps for school admissions, childcare, and Child Benefit applications.
-- **Help navigating official UK documentation and housing support.
-- **Clear & translated breakdowns of official UK government processes.
+- **Guidance on GP registration and accessing local community services.**
+- **Links and steps for school admissions, childcare, and Child Benefit applications.**
+- **Help navigating official UK documentation and housing support.**
+- **Clear & translated breakdowns of official UK government processes.**
 
 ## Built With
 
